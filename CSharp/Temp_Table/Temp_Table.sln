@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temp_Table", "Temp_Table.csproj", "{54EF89CF-7BC0-41DE-BB94-24731DC87EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54EF89CF-7BC0-41DE-BB94-24731DC87EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EF89CF-7BC0-41DE-BB94-24731DC87EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EF89CF-7BC0-41DE-BB94-24731DC87EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EF89CF-7BC0-41DE-BB94-24731DC87EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE93191D-B844-4EF1-A45D-2733DBD763A3}
+	EndGlobalSection
+EndGlobal
